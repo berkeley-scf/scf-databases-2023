@@ -9,7 +9,7 @@ title: 'Databases and SQL workshop'
 ## 1.1 Required
 
 - Install either the RSQLite R package or the sqlite3 Python package on your laptop.
-- Download [this SQLite database file](http://www.stat.berkeley.edu/share/paciorek/stackoverflow-2016.db) onto your laptop.
+- Download [this SQLite database file](http://www.stat.berkeley.edu/share/paciorek/stackoverflow-2021.db) onto your laptop.
 
 Alternatively, if you have an SCF account you can plan to use one of the SCF machines via ssh or the SCF Jupyterhub.
 

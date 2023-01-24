@@ -10,4 +10,4 @@ This document lists the topics to be discussed third session of the workshop, li
 Topics:
 
 - [Set operations](https://berkeley-scf.github.io/tutorial-databases/sql#31-set-operations-union-intersect-except)
-- [Subqueries](https://berkeley-scf.github.io/tutorial-databases/sql#32-subqueries)
+- [Subqueries (and with statements)](https://berkeley-scf.github.io/tutorial-databases/sql#32-subqueries)
