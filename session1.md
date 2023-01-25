@@ -8,10 +8,11 @@ This document lists the topics to be discussed in the first session of the works
 
 Topics:
 
-- [Working with large datasets: memory and disk](https://berkeley-scf.github.io/tutorial-databases/#2-background)
 - [Overview of databases](https://berkeley-scf.github.io/tutorial-databases/#3-database-systems-and-sql)
+- [Working with large datasets: memory and disk](https://berkeley-scf.github.io/tutorial-databases/#2-background)
 - [Accessing a database from languages like R and Python](https://berkeley-scf.github.io/tutorial-databases/#6-accessing-a-database-and-using-sql-from-other-languages)
 - [StackOverflow example database](https://berkeley-scf.github.io/tutorial-databases/#5-stack-overflow-example-database)
+
    The database we'll work with as our example is data on questions and answers on the Stack Overflow code discussion website from 2021. We don't have the full text of the questions or the answers, but we do have:
    
      - the question title and date posted,
